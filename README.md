@@ -14,7 +14,7 @@ $ python crawler.py debug
 
 For example, if you want to crawl Seoul Metro's Reviews, look at the url:
 
-> https://www.tripadvisor.com/Attraction_Review-g`294197`-d`2194168`-Reviews-`Seoul_Metro`-`Seoul`.html
+> https://www.tripadvisor.com/Attraction_Review-g294197-d2194168-Reviews-Seoul_Metro-Seoul.html
 
 You can see the g code `294197`, d code `2194168`, attraction name `Seoul_Metro`, location `Seoul`.
 
