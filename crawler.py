@@ -23,7 +23,7 @@ def generate_url(spots_info, spot, num):
 
 def get_reviews(spots_info, debug=False):
     spots = spots_info.keys()
-    review_nums = ['or%d-' % (_ * 10) for _ in range(5)]
+    review_nums = ['or%d-' % (_ * 10) for _ in range(50)]
     review_nums[0] = ''
 
     for spot in spots:

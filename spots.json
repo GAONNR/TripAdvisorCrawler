@@ -1,52 +1,37 @@
 {
-    "The_War_Memorial_of_Korea":  {
-        "location": "Seoul",
-        "g": 294197,
-        "d": 554537
-    },
-    "Seoul_Metro": {
-        "location": "Seoul",
-        "g": 294197,
-        "d": 2194168
-    },
-    "Gyeongbokgung_Palace": {
-        "location": "Seoul",
-        "g": 294197,
-        "d": 324888
-    },
     "Bukhansan_National_Park": {
         "location": "Seoul",
         "g": 294197,
         "d": 554528
     },
-    "Changdeokgung_Palace": {
-        "location": "Seoul",
-        "g": 294197,
-        "d": 320359
-    },
-    "DMZ": {
-        "location": "Paju_Gyeonggi_do",
-        "g": 1872665,
-        "d": 2076201
-    },
-    "Bulguksa_Temple": {
-        "location": "Gyeongju_Gyeongsangbuk_do",
-        "g": 297888,
-        "d": 320364
-    },
-    "National_Museum_of_Korea": {
-        "location": "Seoul",
-        "g": 294197,
-        "d": 325043
-    },
-    "Seongsan_Ilchulbong": {
-        "location": "Seogwipo_Jeju_Island",
-        "g": 297892,
-        "d": 1582693
-    },
     "N_Seoul_Tower": {
         "location": "Seoul",
         "g": 294197,
         "d": 1169465
+    },
+    "Bukchon_Hanok_Village": {
+        "location": "Seoul",
+        "g": 294197,
+        "d": 1379963
+    },
+    "Olympic_Park": {
+        "location": "Seoul",
+        "g": 294197,
+        "d": 592658
+    },
+    "Myeong_dong_Cathedral": {
+        "location": "Seoul",
+        "g": 294197,
+        "d": 609340
+    },
+    "Coex_Aquarium": {
+        "location": "Seoul",
+        "g": 294197,
+        "d": 592495
+    },
+    "Itaewon": {
+        "location": "Seoul",
+        "g": 294197,
+        "d": 2571660
     }
 }
